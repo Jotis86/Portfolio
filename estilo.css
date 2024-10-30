@@ -269,47 +269,47 @@ html{
     font-size: 14px;
 }
 /* Estas clases se agregaran dinamicamente mediante javascript */
-.skills .skill .javascript{
+.skills .skill .python{
     width: 0%;
-    animation: 2s javascript forwards;
+    animation: 2s python forwards;
 }
-@keyframes javascript {
+@keyframes python {
     0%{width: 0%;}
     100%{width: 90%;}
 }
 
-.skills .skill .htmlcss{
+.skills .skill .sql{
     width: 0%;
-    animation: 2s htmlcss forwards;
+    animation: 2s sql forwards;
 }
-@keyframes htmlcss {
+@keyframes sql {
     0%{width: 0%;}
     100%{width: 85%;}
 }
 
-.skills .skill .photoshop{
+.skills .skill .powerbi{
     width: 0%;
-    animation: 2s photoshop forwards;
+    animation: 2s powerbi forwards;
 }
-@keyframes photoshop {
+@keyframes powerbi {
     0%{width: 0%;}
     100%{width: 90%;}
 }
 
-.skills .skill .wordpress{
+.skills .skill .gitgithub{
     width: 0%;
-    animation: 2s wordpress forwards;
+    animation: 2s gitgithub forwards;
 }
-@keyframes wordpress {
+@keyframes gitgithub {
     0%{width: 0%;}
     100%{width: 85%;}
 }
 
-.skills .skill .drupal{
+.skills .skill .machinelearning{
     width: 0%;
-    animation: 2s drupal forwards;
+    animation: 2s machinelearning forwards;
 }
-@keyframes drupal {
+@keyframes machinelearning {
     0%{width: 0%;}
     100%{width: 75%;}
 }
@@ -323,38 +323,38 @@ html{
     100%{width: 90%;}
 }
 
-.skills .skill .trabajo{
+.skills .skill .criticalthinking{
     width: 0%;
-    animation: 2s trabajo forwards;
+    animation: 2s criticalthinking forwards;
 }
-@keyframes trabajo {
+@keyframes criticalthinking {
     0%{width: 0%;}
     100%{width: 75%;}
 }
 
-.skills .skill .creatividad{
+.skills .skill .teamwork{
     width: 0%;
-    animation: 2s creatividad forwards;
+    animation: 2s teamwork forwards;
 }
-@keyframes creatividad {
+@keyframes teamwork {
     0%{width: 0%;}
     100%{width: 95%;}
 }
 
-.skills .skill .dedicacion{
+.skills .skill .problemsolving{
     width: 0%;
-    animation: 2s dedicacion forwards;
+    animation: 2s problemsolving forwards;
 }
-@keyframes dedicacion {
+@keyframes problemsolving {
     0%{width: 0%;}
     100%{width: 85%;}
 }
 
-.skills .skill .proyect{
+.skills .skill .adaptability{
     width: 0%;
-    animation: 2s proyect forwards;
+    animation: 2s adaptability forwards;
 }
-@keyframes proyect {
+@keyframes adaptability {
     0%{width: 0%;}
     100%{width: 95%;}
 }
