@@ -296,6 +296,15 @@ html{
     100%{width: 90%;}
 }
 
+.skills .skill .tableau {
+    width: 0%;
+    animation: 2s tableau forwards;
+}
+@keyframes tableau {
+    0% { width: 0%; }
+    100% { width: 80%; }
+}
+
 .skills .skill .gitgithub{
     width: 0%;
     animation: 2s gitgithub forwards;
@@ -339,6 +348,15 @@ html{
 @keyframes teamwork {
     0%{width: 0%;}
     100%{width: 95%;}
+}
+
+.skills .skill .leadership {
+    width: 0%;
+    animation: 2s leadership forwards;
+}
+@keyframes leadership {
+    0% { width: 0%; }
+    100% { width: 85%; }
 }
 
 .skills .skill .problemsolving{

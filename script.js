@@ -24,13 +24,15 @@ function efectoHabilidades(){
         habilidades[0].classList.add("python");
         habilidades[1].classList.add("sql");
         habilidades[2].classList.add("powerbi");
-        habilidades[3].classList.add("gitgithub");
-        habilidades[4].classList.add("machinelearning");
-        habilidades[5].classList.add("comunicacion");
-        habilidades[6].classList.add("criticalthinking");
-        habilidades[7].classList.add("teamwork");
-        habilidades[8].classList.add("problemsolving");
-        habilidades[9].classList.add("adaptability");
+        habilidades[3].classList.add("tableau"); // Nueva habilidad
+        habilidades[4].classList.add("gitgithub");
+        habilidades[5].classList.add("machinelearning");
+        habilidades[6].classList.add("comunicacion");
+        habilidades[7].classList.add("criticalthinking");
+        habilidades[8].classList.add("teamwork");
+        habilidades[9].classList.add("leadership"); // Nueva habilidad
+        habilidades[10].classList.add("problemsolving");
+        habilidades[11].classList.add("adaptability");
     }
 }
 
